@@ -4,7 +4,7 @@ Este repositorio contiene la primera versión de un **inversor monofásico de 50
 
 ---
 
-## ⚙️ Características Técnicas del Prototipo
+## Características Técnicas del Prototipo
 
 * **Potencia Nominal:** 500W
 * **Topología:** Se utiliza una configuración **Push-Pull** en la etapa de potencia, ideal para sistemas de baja tensión de entrada y con el objetivo de simplificar el circuito de control.
